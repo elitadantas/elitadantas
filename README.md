@@ -1,6 +1,6 @@
 - # sobre mim
 - 👋 Olá meu nome é **@elitadantas**
-- :+1: Meu email de contato é [email] (elita.dantas@escola.pr.gov.br)
+- :+1: Meu email de contato é [email](elita.dantas@escola.pr.gov.br)
 - 👀 Eu esrtou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
 - 
